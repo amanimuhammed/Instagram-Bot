@@ -11,21 +11,21 @@ class Config:
     STATUS = set(int(x) for x in (S).split())
     L=Instaloader()
     HELP="""
-You can Download almost anything From your Instagram Account.
+<b>You can Download almost anything From your Instagram Account.</b>
 
 <b>What Can Be Downloaded?:</b>
 
-1. All posts of any Profile. (Both Public and Private,for private profiles you need to be a follower.)
-2. All Posts from your feed.
-3. Stories of any profile (Both Public and Private,for private profiles you need to be a follower.)
-4. DP of any profile (No need to follow)
-5. Followers and Followees List of any Profile.
-6. Stories of your Followees.
-7. Tagged posts of any profile.
-8. Your saved Posts.
-9. IGTV videos.
-10. Highlights from any profiles.
-11. Any Public Post from Link(Post/Reels/IGTV)
+1. <code>All posts of any Profile.</code> (<i>Both Public and Private,for private profiles you need to be a follower</i>.)
+2. <code>All Posts from your feed.</code>
+3. <code>Stories of any profile</code> (<i>Both Public and Private,for private profiles you need to be a follower</i>.)
+4. <code>DP of any profile</code> (<i>No need to follow</i>)
+5. <code>Followers and Following List of any Profile.</code>
+6. <code>Stories of your Followers.</code>
+7. <code>Tagged posts of any profile.</code>
+8. <code>Your saved Posts.</code>
+9. <code>IGTV videos.</code>
+10. <code>Highlights from any profiles.</code>
+11. <code>Any Public Post from Link</code>(<i>Post/Reels/IGTV</i>)
 
 
 <b>How to Download:</b>
@@ -40,9 +40,9 @@ You have two Options:
 Just send any instagram username.
 
 For Example:
-<code>samantharuthprabhuoffl</code>
-<code>subin_p_s_</code>
-<code>_chill_manh_7</code>
+<code>leomessi</code>
+<code>Amani_m_h_d</code>
+<code>mahi7781</code>
 
 
 2. From URL:
@@ -50,7 +50,7 @@ For Example:
 You can also sent a post link to download the post or video.
 
 For Example:
-<code>https://www.instagram.com/p/CL4QbUiLRNW/?utm_medium=copy_link</code>
+<code>https://www.instagram.com/p/CL_-eqLJZyf/?utm_medium=copy_link</code>
 
 
 <b>Available Commands and Usage</b>
@@ -91,11 +91,14 @@ Example: <code>/followers samantharuthprabhuoffl</code>
     HOME_TEXT = """
 <b>Helo, [{}](tg://user?id={})
 
-This is a bot of [{}](www.instagram.com/{}) to manage his Instagram account. 
+This is a bot of [{}](www.instagram.com/{}) to manage his Instagram account.
 I can only work for my master [{}](tg://user?id={}).
-But you can Deploy the same bot for your use from the below source code.
 
 Use /help to know What I can Do?</b>
+
+<code>സൂക്ഷിച്ചു നോക്കേണ്ട ഉണ്ണീ, ഞാൻ നിനക്ക് വർക്കാകില്ല™</code>
+
+🏷 <b>Maintained By: @Amani_m_h_d</b>
 """
     HOME_TEXT_OWNER = """
 <b>Helo, [{}](tg://user?id={})
