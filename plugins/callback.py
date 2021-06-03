@@ -55,7 +55,7 @@ async def cb_handler(bot: Client, query: CallbackQuery):
 				[
 					InlineKeyboardButton("👨🏼‍💻 Developer", url="https://t.me/Amani_m_h_d"),
 					InlineKeyboardButton("Other Bots 🤖", url="https://t.me/My_Test_Botz/47"),
-                    InlineKeyboardButton("Update Channel", url="https://t.me/subin_works")
+                    InlineKeyboardButton("Update Channel 📌", url="https://t.me/subin_works")
 				],
 				[
 					InlineKeyboardButton("📦 Source Code", url="http://t.me/nokkiirunnoippokittum"),
