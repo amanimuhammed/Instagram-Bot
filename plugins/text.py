@@ -47,17 +47,18 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Othor Bots", url="https://t.me/subin_works/122"),
+						
+						InlineKeyboardButton("👨🏼‍💻 Developer", url='https://t.me/Amani,m_h_d'),
+						InlineKeyboardButton("Othor Bots 🤖", url="https://t.me/My_test_Botz/47"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗 Source Code", url="https://t.me/AdhavaaBiriyaniKittiyalo"),
+						InlineKeyboardButton("Donate 💵", url="https://t.me/Amani_m_h_d")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("Update Channel 📌", url="https://t.me/my_test_Botz")
 
                     ]
 					
@@ -129,17 +130,18 @@ async def _insta_post_batch(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Othor Bots", url="https://t.me/subin_works/122"),
+						
+						InlineKeyboardButton("👨🏼‍💻 Developer", url='https://t.me/Amani,m_h_d'),
+						InlineKeyboardButton("Othor Bots 🤖", url="https://t.me/My_test_Botz/47"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗 Source Code", url="https://t.me/AdhavaaBiriyaniKittiyalo"),
+						InlineKeyboardButton("Donate 💵", url="https://t.me/Amani_m_h_d")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("Update Channel 📌", url="https://t.me/my_test_botz")
 
                     ]
 					
