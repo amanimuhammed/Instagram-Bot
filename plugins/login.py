@@ -45,12 +45,12 @@ async def login(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Othor Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻 Developer", url='https://t.me/Amani,m_h_d'),
+						InlineKeyboardButton("Othor Bots 🤖", url="https://t.me/My_test_Botz/47")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+					InlineKeyboardButton("🔗 Source Code", url="https://t.me/AdhavaaBiriyaniKittiyalo"),
+						InlineKeyboardButton("Donate 💵", url="https://t.me/Amani_m_h_d")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
@@ -171,14 +171,14 @@ async def logout(bot, message):
             HOME_TEXT.format(message.from_user.first_name, message.from_user.id, USER, USER, USER, OWNER), 
 			disable_web_page_preview=True,
 			reply_markup=InlineKeyboardMarkup(
-				[
+				[ 
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Othor Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻 Developer", url='https://t.me/Amani,m_h_d'),
+						InlineKeyboardButton("Othor Bots 🤖", url="https://t.me/My_test_Botz/47")
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+					InlineKeyboardButton("🔗 Source Code", url="https://t.me/AdhavaaBiriyaniKittiyalo"),
+						InlineKeyboardButton("Donate 💵", url="https://t.me/Amani_m_h_d")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
